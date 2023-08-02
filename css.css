@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+}
+
+ul{
+    position: static;
+    background-color: red;
+    text-align: center;
+    height:6rem;
+    word-spacing:6rem;
+}
+li{
+    display:inline-block;
+    margin-top: 3rem;
+   
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 50% 50%;
+}
+   
+a{
+    cursor: wait;
+    text-decoration: none;
+}
+.FAMOUS{
+    cursor: cell;
+    color:pink;
+    text-align: center;
+    font-size: 100px;
+
+}
+.ICECREAMS{
+    cursor: cell;
+    color: pink;
+    text-align: center;
+    font-size: 100px;
+
+}
+img{
+    cursor:e-resize;
+}

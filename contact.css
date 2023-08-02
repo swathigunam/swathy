@@ -1,0 +1,11 @@
+body{
+    background-color:pink;
+}
+h2{
+    cursor: cell;
+    color: blueviolet;
+    text-align: center;
+}
+img{
+    cursor: wait;
+}

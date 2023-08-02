@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+}
+
+h3{
+    cursor: cell;
+    text-align: center;
+    color: orange;
+    font-size: 2rem;
+}
+img{
+    cursor: wait;
+}
+
+p{
+    cursor:crosshair;
+    color:green;
+    text-align: justify;
+    word-spacing: 10px;
+    text-indent: 200px;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 200;
+}

@@ -1,0 +1,22 @@
+body{
+    background-color: aquamarine;
+}
+#FLAVOURS{
+    color:red;
+    text-align: center;
+    cursor: cell;
+    font-size: 2rem;
+}
+h2{
+    text-align:left;
+    color: blueviolet;
+    cursor: cell;
+    font-size: 1.5rem;
+}
+.FLAVOURS{
+    display:flex;
+    flex-direction:column;
+}
+img{
+    cursor: wait;
+}

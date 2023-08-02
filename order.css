@@ -1,0 +1,85 @@
+
+
+
+body{
+    background-color:bisque;
+}
+
+
+.ITEMS{
+    cursor: wait;
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows:repeat(3,1fr);
+    gap:2rem;
+    
+}
+.item img{
+    cursor: wait;
+    width:580px;
+    height:470px;
+    
+}
+.item{
+    position: relative;
+}
+.item button{
+    position:absolute;
+    top:45%;
+    left:35%;
+    text-align: center;
+    background-color:palegreen;
+    cursor:grab;
+}
+.item button:hover{
+    background-color:purple;
+}
+#CUP{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+#ROLL{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+#CHERRY{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+#VENNILA{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+#CHOCOBAR{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+#KULFI{
+    cursor: cell;
+    text-align: center;
+    color:red;
+   
+}
+#STRAWBERRY{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+#BUTTERSCOTCH{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+#CONE{
+    cursor: cell;
+    text-align: center;
+    color:red;
+}
+
+
+

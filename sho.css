@@ -1,0 +1,56 @@
+body{
+    background-color: skyblue;
+}
+
+
+.BEST{
+    text-align:center;
+    cursor:crosshair;
+    color: red;
+    font-size: 40px;
+}
+.THREE{
+    text-align:center;
+    color: red;
+    font-size: 40px;
+}
+.FLAVOURS{
+    text-align: center;
+    color: red;
+    font-size: 40px;
+}
+h2{
+    cursor: cell;
+    color:blue;
+    font-size: 20px;
+}
+h2{
+    cursor: cell;
+    color:blue;
+    font-size: 20px;
+}
+h2{
+    cursor: cell;
+    color:blue;
+    font-size: 20px;
+}
+
+.FLAVOURS{
+    display:flex;
+    flex-direction:column;
+
+    
+}
+.fla img{
+    height:250px;
+    width:200px;
+    cursor:wait;
+}
+
+
+
+
+
+
+
+
